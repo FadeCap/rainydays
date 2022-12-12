@@ -1,3 +1,22 @@
-ul {
-    padding: 0%;
+li {
+    padding: 0%
+}
+
+header_background {
+    opacity: 0.85;
+    top: 0px;
+    left: 0px;
+    width: 390px;
+    height: 170px;
+    background: rgba(185, 138, 90, 0.85)
+    
+}
+
+img.bg {
+    top: -180px;
+    left: -525px;
+    width: 1440px;
+    height: 1024px;
+    filter: brightness(65%);
+    position: fixed;
 }
